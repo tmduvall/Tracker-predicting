@@ -1,2 +1,4 @@
 # Tracker-Predictions
- Project to discover whether tracker data in the morning can predict health of people with ME throughout the day.
+This is an exploratory project to discover whether tracker data in the morning can predict te health of people with ME throughout the day. The predictors consist of six readings from a Garmin Venu 3 available upon waking. The outcomes comprise the tracker's estimate of active calories burnt during the rest of the day, a person's self-rating (1-5) of their health over the day, and a binary self-appraisal of whether they are in PEM (a 'crash' phase). The first step is to create deep-learning models predicting the outcomes; then these will be compared with slightly more 'traditional' approaches, such as random forests.
+
+Currently, I have completed a deep learning model for predicting estimated active calories. Despite expending considerable effort to optimize the model, the results are unimpressive. It will be interesting to see how well otherapproaches work.
