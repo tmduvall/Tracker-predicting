@@ -3,6 +3,6 @@ This is an exploratory project to discover whether tracker data in the morning c
 
 Currently, I have completed regressions using deep neural networks to predict the estimated active calories (*dailypred - active calories - regression.ipynb*) and the daily ratings (*dailypred - rating - regression.ipynb*). 
 
-**Active calories regression:** Despite expending considerable effort to optimize the model, the results are unimpressive. It will be interesting to see how well other approaches work. 
+**Active calories regression:** Although I spent considerable effort on optimizing the model, the results are unimpressive. It will be interesting to see how well other approaches work. 
 
 **Daily ratings regression:** The model might appear to be moderately accurate and reliable by some measures, but in practice it simply predicts a value close to the overall average and thus does not reliably register important changes.
