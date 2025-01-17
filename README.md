@@ -6,3 +6,7 @@ Currently, I have completed regressions using deep neural networks to predict th
 **Active calories regression:** Although I spent considerable effort on optimizing the model, the results are unimpressive. It will be interesting to see how well other approaches work. 
 
 **Daily ratings regression:** The model might appear to be moderately accurate and reliable by some measures, but in practice it simply predicts a value close to the overall average and thus does not reliably register important changes.
+
+**Daily ratings classification** In sum, the model is sufficiently suggestive to be 'not useless' - another imperfect source of information, but one that probably should outweigh its components, on which many people with ME currently rely. If this model is developed further, an important question would be whether to create a single model for all people with ME or to continually refine the base model here for each individual as they and their tracker produce more data. Finally, this model might be improved by preparing data to reflect changes in baseline metrics. For example, today's resting heart rate might be less predictive than the difference between it and the average over the past ten days - or ten days with a neutral rating, or ...
+
+**PEM classification** Coming soon!
