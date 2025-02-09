@@ -3,3 +3,7 @@ dailypred - rating - classification - vector.ipynb
 /hp_tuning_F1
 /hp_tuning_F1_Bayes
 dailypred - PEM - classification - AUC.ipynb
+dailypred - PEM - classification - F1 manual.ipynb
+/cal_reg_gb
+/pem_class_gb
+/rating_reg_gb
